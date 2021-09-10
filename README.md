@@ -1,5 +1,5 @@
 # History_cleaner_extension
-This is a googlee hrome extension to search and delete browsing histroy based on keyword.
+This is a googlee chrome extension to search and delete browsing histroy based on keyword.
 
 Steps to install:-
  -- 
